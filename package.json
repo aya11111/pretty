@@ -2,7 +2,7 @@
   "name": "pretty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aya11111.github.io/pretty",
+  "homepage": "https://aya11111.github.io/pretty",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
