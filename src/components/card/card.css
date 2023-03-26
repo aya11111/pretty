@@ -1,0 +1,25 @@
+.card {
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    border: unset !important;
+}
+.card .purple {
+    color: var(--text) !important;
+    border: 2px solid var(--dark) !important;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.card .purple:hover {
+    background-color: #fff !important;
+    color: var(--dark) !important
+}
+.card h5 {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: var(--text)
+}
+.card p {
+    color: var(--text)
+}
+.card .card-img-top {
+    height: 200px
+}

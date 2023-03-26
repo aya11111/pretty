@@ -1,0 +1,62 @@
+.navbar {
+    text-transform: capitalize;
+}
+.navbar .navbar-brand{
+    color: var(--dark);
+    font-weight: bold
+}
+.navbar .navbar-brand:hover {
+    color: var(--main-color);
+}
+.navbar-nav {
+    margin: 0 20px;
+    padding: 0;
+    align-items: center;
+}
+.navbar-nav .nav-link {
+    color: var(--dark)
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active:hover {
+    color: var(--main-color) !important
+}
+.navbar-nav .nav-link.active {
+    color: var(--dark) !important;
+    font-weight: 500;
+}
+.navbar-toggler {
+    line-height: unset !important;
+    padding: 5px 10px;
+    font-size: 15px;
+    color: transparent !important
+}
+.navbar-toggler:focus {
+    border: 1px solid var(--main-color)
+}
+.navbar-toggler-icon {
+    background-image: none !important;
+    display: flex;
+    align-items: center;
+    
+}
+.navbar-toggler-icon svg {
+    color: var(--dark);
+}
+.navbar-expand-lg .navbar-collapse {
+    justify-content: space-between;
+}
+.navbar button {
+    color: var(--dark);
+    border: 1px solid Var(--dark);
+    background-color: #fff;
+    padding: 2px 5px;
+    border-radius: 50%;
+    margin: 0 20px
+}
+.navbar button:hover {
+    color: #fff;
+    background-color: var(--dark);
+}
+.navbar button:hover .navbar-toggler-icon svg {
+    color: #fff
+}
