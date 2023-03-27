@@ -2,6 +2,10 @@ import Nav from "../../components/nav/Nav";
 import Footer from "../../components/footer/Footer";
 import Card from "../../components/card/Card";
 import "./home.css";
+import brushimage from "../../images/brush.png";
+import { Link } from "react-router-dom";
+
+
 import {useTranslation} from "react-i18next";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faPalette, faIcons, faPaintBrush, faStar, faArrowRight, faArrowLeft, faUser} from '@fortawesome/free-solid-svg-icons';
@@ -48,7 +52,7 @@ function Home(props) {
                     <div className="head-info">
                         <h2>{t("home.head")}</h2>
                         <p>{t("paragraph")}</p>
-                        <button className="shop">{t("home.shop")}</button>
+                        <Link to="/shop/foundation" className="shop">{t("home.shop")}</Link>
                     </div>
                 </div>
             </div>
@@ -66,7 +70,7 @@ function Home(props) {
                 <div className="container">
                     <div className="row">
                         <div className="info-image col-md-3 col-xs-12">
-                            <img src="./images/brush.png" alt="colors"/>
+                            <img src={brushimage} alt="colors"/>
                         </div>
                         <div className="info-par col-md-9 col-xs-12">
                             <h3>{t("home.best")}</h3>
