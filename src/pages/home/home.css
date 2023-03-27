@@ -23,7 +23,8 @@
     text-transform: capitalize;
     border: none;
     font-weight: bold;
-    margin-top: 10px
+    margin-top: 10px;
+    text-decoration: none;
 }
 .head-info .shop:hover {
     color: #fff;

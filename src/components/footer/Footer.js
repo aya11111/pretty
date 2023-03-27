@@ -30,10 +30,10 @@ function Footer(props){
                         <div className="col-md-3 col-sm-6 col-xs-12">
                             <h3>{t("footer.information")}</h3>
                             <ul>
-                                <Link><a href="/pretty">{t("nav.home")}</a></Link>
-                                <Link><a href="/about">{t("nav.about")}</a></Link>
-                                <Link><a href="/shop/foundation">{t("nav.shop")}</a></Link>
-                                <Link><a href="/contact">{t("nav.contact")}</a></Link>
+                                <li><Link href="/pretty">{t("nav.home")}</Link></li>
+                                <li><Link href="/about">{t("nav.about")}</Link></li>
+                                <li><Link href="/shop/foundation">{t("nav.shop")}</Link></li>
+                                <li><Link href="/contact">{t("nav.contact")}</Link></li>
                             </ul>
                         </div>
                         <div className="col-md-3 col-sm-6 col-xs-12">
