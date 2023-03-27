@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pretty/static/css/main.bc4ea715.css",
-    "main.js": "/pretty/static/js/main.9a9de21b.js",
+    "main.css": "/pretty/static/css/main.80a73ac5.css",
+    "main.js": "/pretty/static/js/main.aaabb1d7.js",
     "static/media/cat-eyeshadow.jpg": "/pretty/static/media/cat-eyeshadow.4daa4aaff8ea4bb25c43.jpg",
     "static/media/cat-brushes.jpg": "/pretty/static/media/cat-brushes.2813e7389514b7bb6c78.jpg",
     "static/media/about.jpg": "/pretty/static/media/about.60a4ead7d2a4ef615caf.jpg",
@@ -31,11 +31,11 @@
     "static/media/eyes4.jpg": "/pretty/static/media/eyes4.ec939a27ffd804fb9829.jpg",
     "static/media/brush1.jpg": "/pretty/static/media/brush1.3bad40156de068bb20e6.jpg",
     "index.html": "/pretty/index.html",
-    "main.bc4ea715.css.map": "/pretty/static/css/main.bc4ea715.css.map",
-    "main.9a9de21b.js.map": "/pretty/static/js/main.9a9de21b.js.map"
+    "main.80a73ac5.css.map": "/pretty/static/css/main.80a73ac5.css.map",
+    "main.aaabb1d7.js.map": "/pretty/static/js/main.aaabb1d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc4ea715.css",
-    "static/js/main.9a9de21b.js"
+    "static/css/main.80a73ac5.css",
+    "static/js/main.aaabb1d7.js"
   ]
 }
