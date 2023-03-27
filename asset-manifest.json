@@ -1,16 +1,41 @@
 {
   "files": {
     "main.css": "/pretty/static/css/main.bc4ea715.css",
-    "main.js": "/pretty/static/js/main.56582b43.js",
+    "main.js": "/pretty/static/js/main.9a9de21b.js",
+    "static/media/cat-eyeshadow.jpg": "/pretty/static/media/cat-eyeshadow.4daa4aaff8ea4bb25c43.jpg",
+    "static/media/cat-brushes.jpg": "/pretty/static/media/cat-brushes.2813e7389514b7bb6c78.jpg",
     "static/media/about.jpg": "/pretty/static/media/about.60a4ead7d2a4ef615caf.jpg",
+    "static/media/brush.png": "/pretty/static/media/brush.8823605caace81cde542.png",
+    "static/media/cat-lipstick.jpg": "/pretty/static/media/cat-lipstick.4b5a0369a664830854da.jpg",
+    "static/media/nails3.jpg": "/pretty/static/media/nails3.90d06306666ca94794f4.jpg",
+    "static/media/foundation1.jpg": "/pretty/static/media/foundation1.73d072cb2e4d4adaf203.jpg",
+    "static/media/cat-foundation.jpg": "/pretty/static/media/cat-foundation.a13362ce327b79149a84.jpg",
     "static/media/back.jpg": "/pretty/static/media/back.ec8a7469664e4480bd0d.jpg",
+    "static/media/cat-blusher.jpg": "/pretty/static/media/cat-blusher.6573474168a204dafd42.jpg",
+    "static/media/lip2.jpg": "/pretty/static/media/lip2.75de5fb1b73fd8a8d458.jpg",
+    "static/media/lip3.jpg": "/pretty/static/media/lip3.e7e9d02e0e7defd16df2.jpg",
+    "static/media/lip4.jpg": "/pretty/static/media/lip4.9408f78a89a3e35381b4.jpg",
+    "static/media/lip5.jpg": "/pretty/static/media/lip5.ca12146872bcadbbae77.jpg",
+    "static/media/lip1.jpg": "/pretty/static/media/lip1.1b86575130eb03a9826a.jpg",
+    "static/media/cat-nails.jpg": "/pretty/static/media/cat-nails.626bb5928ccf8175ce5a.jpg",
     "static/media/background.jpg": "/pretty/static/media/background.1274b3e163448181a6cb.jpg",
+    "static/media/cat-skincare.jpg": "/pretty/static/media/cat-skincare.59eda25fa9d33c8fb537.jpg",
+    "static/media/brush4.jpg": "/pretty/static/media/brush4.69cec548745c5756c74b.jpg",
+    "static/media/blusher2.jpg": "/pretty/static/media/blusher2.4d7a756d580e7df5d7aa.jpg",
+    "static/media/eyes1.jpg": "/pretty/static/media/eyes1.02e3b44408f757aadfaa.jpg",
+    "static/media/blusher4.jpg": "/pretty/static/media/blusher4.12eda346bb7b8219acba.jpg",
+    "static/media/skin1.jpg": "/pretty/static/media/skin1.91f2fa18d1bcc9671ad9.jpg",
+    "static/media/skin3.jpg": "/pretty/static/media/skin3.4226b2954d2316979dc8.jpg",
+    "static/media/nails4.jpg": "/pretty/static/media/nails4.39136dfaa325c268f08f.jpg",
+    "static/media/brush2.jpg": "/pretty/static/media/brush2.767897f99e2a9a4e2174.jpg",
+    "static/media/eyes4.jpg": "/pretty/static/media/eyes4.ec939a27ffd804fb9829.jpg",
+    "static/media/brush1.jpg": "/pretty/static/media/brush1.3bad40156de068bb20e6.jpg",
     "index.html": "/pretty/index.html",
     "main.bc4ea715.css.map": "/pretty/static/css/main.bc4ea715.css.map",
-    "main.56582b43.js.map": "/pretty/static/js/main.56582b43.js.map"
+    "main.9a9de21b.js.map": "/pretty/static/js/main.9a9de21b.js.map"
   },
   "entrypoints": [
     "static/css/main.bc4ea715.css",
-    "static/js/main.56582b43.js"
+    "static/js/main.9a9de21b.js"
   ]
 }
